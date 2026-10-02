@@ -1,0 +1,6 @@
+{
+  "name": "AI Debate Arena",
+  "description": "Interactive competitive debate platform where users debate in real time and receive multi-criteria AI judging and feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
